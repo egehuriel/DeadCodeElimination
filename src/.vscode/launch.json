@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/egehuriel/Desktop/Yeditepe/2025-2026/5. Dönem 2025/CSE 351/Term Project/CSE351-TermProject/src",
+      "program": "/Users/egehuriel/Desktop/Yeditepe/2025-2026/5. Dönem 2025/CSE 351/Term Project/CSE351-TermProject/src/build/Debug/outDebug"
+    }
+  ]
+}
