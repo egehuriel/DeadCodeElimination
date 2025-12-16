@@ -1,4 +1,4 @@
-# CSE 351 – Term Project: Dead Code Elimintation
+# Dead Code Elimintation
 
 
 Curated and developed for the **CSE 351 Term Project**. This project implements **Dead Code Elimination (DCE)** for a simplified Intermediate Language (IL) using **Lex/Flex** and **Yacc/Bison**.
